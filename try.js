@@ -14,3 +14,6 @@ console.log(upi);
 
 const update="updated";
 console.log(update);
+
+//I am fixing some bugs in this code...
+console.log("Bug Fixed here...");
